@@ -48,24 +48,24 @@
       19,
       20,
       21,
-      23,
+      22,
+      24,
+      25,
       27,
-      28,
       29,
       30,
       32,
-      34,
-      35,
+      33,
       36,
       37,
       38
     ],
     "visible_layers": "0011000_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "Navi_2_0.kicad_prl",
-    "version": 2
+    "version": 3
   },
   "project": {
     "files": []
