@@ -7377,7 +7377,7 @@
     (property "Value" "Q_NPN_BEC" (id 1) (at 127 112.3949 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 127 113.03 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 127 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 121.92 110.49 0)
@@ -7397,7 +7397,7 @@
     (property "Value" "Q_NPN_BEC" (id 1) (at 129.54 97.1549 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 129.54 92.71 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 129.54 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 124.46 95.25 0)
@@ -8269,10 +8269,10 @@
       (reference "Q3") (unit 1) (value "DMG2301L-7 ") (footprint "Package_TO_SOT_SMD:TSOT-23")
     )
     (path "/f565b841-9b2c-4ec1-9ce9-08480c454181"
-      (reference "Q4") (unit 1) (value "Q_NPN_BEC") (footprint "")
+      (reference "Q4") (unit 1) (value "Q_NPN_BEC") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/d0cfeb97-bcb6-465d-a0b7-4c1fdce848f8"
-      (reference "Q5") (unit 1) (value "Q_NPN_BEC") (footprint "")
+      (reference "Q5") (unit 1) (value "Q_NPN_BEC") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/00000000-0000-0000-0000-00005fd75a6e"
       (reference "Q6") (unit 1) (value "DMG2301L-7 ") (footprint "Package_TO_SOT_SMD:TSOT-23")
