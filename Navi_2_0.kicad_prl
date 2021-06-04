@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 36,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -62,8 +62,8 @@
       37,
       38
     ],
-    "visible_layers": "002d000_fffffff8",
-    "zone_display_mode": 1
+    "visible_layers": "000d050_fffffff8",
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "Navi_2_0.kicad_prl",
