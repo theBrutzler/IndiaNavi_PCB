@@ -1,3 +1,6 @@
 (fp_lib_table
-  (lib (name Navi_2_0)(type KiCad)(uri ${KIPRJMOD}/Navi_2_0.pretty)(options "")(descr "")
+  (lib (name "Navi_2_0")(type "KiCad")(uri "${KIPRJMOD}/Navi_2_0.pretty")(options "")(descr ""))
+  (lib (name "EasterEGG_V1")(type "KiCad")(uri "D:/ProjectsNextcloud/Eieiei.lol/KiCad/EasterEGG_V1/EasterEGG_V1.pretty/EasterEGG_V1.pretty")(options "")(descr ""))
+  (lib (name "Navi_1_0-backups")(type "KiCad")(uri "D:/ProjectsNextcloud/IndiaNavi/Kicad")(options "")(descr ""))
+  (lib (name "TheBrutzlers_Lib")(type "KiCad")(uri "D:/ProjectsNextcloud/Kurzschlussjunkies/KicadLibs/TheBrutzlers_Lib.pretty")(options "")(descr ""))
 )
