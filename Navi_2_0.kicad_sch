@@ -7644,7 +7644,7 @@
     (property "Footprint" "Package_LGA:LGA-12_2x2mm_P0.5mm" (id 2) (at 186.69 99.06 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "www.st.com/resource/en/datasheet/lsm6ds3.pdf" (id 3) (at 199.39 97.79 0)
+    (property "Datasheet" "https://www.st.com/en/mems-and-sensors/lsm303ah.html" (id 3) (at 199.39 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f9165aae-3658-43c9-9de7-025e8cb469f3))
