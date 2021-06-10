@@ -399,7 +399,7 @@
       "idf": "",
       "netlist": "Navi_2_0.net",
       "specctra_dsn": "",
-      "step": "Navi_2_0.step",
+      "step": "Navi_2_0_stl.step",
       "vrml": "Navi_2_0.wrl"
     },
     "page_layout_descr_file": ""
