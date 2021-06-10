@@ -1,0 +1,6 @@
+IndiaNavi Dicke: 6,3
+
+Breit 111,7
+Lang 137
+
+Quadermagnet 6,0 x 4,0 x 2,0 mm N44H Nickel - hält 700 g
