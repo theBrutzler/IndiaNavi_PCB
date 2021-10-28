@@ -527,12 +527,12 @@
     (fp_circle (center 0 0) (end 1.55 0) (layer "B.CrtYd") (width 0.05) (fill none) (tstamp ba968c1f-bf5f-48d9-bbf7-a700bd4d9dc0))
     (pad "1" smd circle locked (at 0 0 90) (size 3 3) (layers "B.Cu" "B.Mask")
       (net 2 "+BATT") (pinfunction "Pin_1") (tstamp caf30c01-b9a0-45de-9792-be3287d8cdf1))
-    (model "${KIPRJMOD}/LiPo_307095.step" hide
+    (model "${KIPRJMOD}/3D_Models/LiPo_307095.step"
       (offset (xyz 30 49 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "${KIPRJMOD}/LiPo_307095.wrl"
+    (model "${KIPRJMOD}/3D_Models/LiPo_307095.wrl" hide
       (offset (xyz 30 49 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -570,12 +570,12 @@
     (fp_line (start -1.5 1.5) (end 1.5 1.5) (layer "B.CrtYd") (width 0.05) (tstamp d8f062ce-6cdc-405f-838a-cb57a24e5843))
     (pad "1" smd rect locked (at 0 0) (size 3 3) (layers "B.Cu" "B.Mask")
       (net 1 "GND") (pinfunction "Pin_1") (tstamp 2bb5a56a-4e47-4787-8fe8-167bcdb4d3fa))
-    (model "${KIPRJMOD}/Waveshare_7_5.step" hide
+    (model "${KIPRJMOD}/3D_Models/Waveshare_7_5.step"
       (offset (xyz 32 -43.5 -2))
       (scale (xyz 0.73 1 0.89))
       (rotate (xyz 90 0 -90))
     )
-    (model "${KIPRJMOD}/Waveshare_7_5.wrl"
+    (model "${KIPRJMOD}/3D_Models/Waveshare_7_5.wrl" hide
       (offset (xyz 32 -43.5 -2))
       (scale (xyz 0.73 1 0.89))
       (rotate (xyz 90 0 -90))
@@ -2335,12 +2335,12 @@
       (net 89 "unconnected-(U5-Pad30)") (pinfunction "ANTON") (tstamp 34ff5ead-f86b-4fbb-b238-97477ae74759))
     (pad "31" smd rect locked (at -2 7) (size 0.7 2.15) (layers "B.Cu" "B.Mask")
       (net 1 "GND") (pinfunction "GND") (tstamp 143adc08-c762-4c39-b586-3f5580d9ddb6))
-    (model "${KIPRJMOD}/L96-M33.STEP" hide
+    (model "${KIPRJMOD}/3D_Models/L96-M33.STEP"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
     )
-    (model "${KIPRJMOD}/L96-M33.wrl"
+    (model "${KIPRJMOD}/3D_Models/L96-M33.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))

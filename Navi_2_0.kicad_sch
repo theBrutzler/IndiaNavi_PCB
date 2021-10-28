@@ -4,6 +4,11 @@
 
   (paper "A4")
 
+  (title_block
+    (date "2021-10-28")
+    (rev "3")
+  )
+
   (lib_symbols
     (symbol "Connector:Conn_01x24_Male" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 30.48 0)
