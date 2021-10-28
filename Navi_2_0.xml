@@ -2,14 +2,14 @@
 <export version="E">
   <design>
     <source>D:\GitHub\Hardware\IndiaNavi_PCB\Navi_2_0.kicad_sch</source>
-    <date>28.10.2021 21:46:54</date>
+    <date>28.10.2021 22:29:21</date>
     <tool>Eeschema (5.99.0-10506-gb986797469)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
         <company/>
-        <rev/>
-        <date/>
+        <rev>3</rev>
+        <date>2021-10-28</date>
         <source>Navi_2_0.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
